@@ -1,0 +1,21 @@
+{
+  "name": "@fibjs/node-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for fibjs to be like Node.js",
+  "scripts": {
+    "ci": "fibjs test/test.js"
+  },
+  "repository": "https://github.com/fibjs-modules/node-polyfill.git",
+  "author": "ngot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibjs-modules/node-polyfill/issues"
+  },
+  "homepage": "https://github.com/fibjs-modules/node-polyfill#readme",
+  "ci": {
+    "type": "travis"
+  },
+  "devDependencies": {
+    "@fibjs/ci": "^1.0.0"
+  }
+}
