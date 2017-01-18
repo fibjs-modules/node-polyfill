@@ -4,7 +4,7 @@
 
 Polyfill for fibjs to be like Node.js
 
-## Usage
+## Installation
 
 ```
   npm install @fibs/node-polyfill --save
@@ -18,6 +18,6 @@ Just require it!
   require('@fibs/node-polyfill')();
 ```
 
-# license
+# License
 
 [MIT](LICENSE)
